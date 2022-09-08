@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN and ML**
 
-- 👨‍💻 All of my projects are available at [seetaramnaik.github.io](seetaramnaik.github.io)
+- 👨‍💻 All of my projects are available at [seetaramnaik.github.io](https://seetaramnaik.github.io/)
 
 - 💬 Ask me about **MERN, Python**
 
