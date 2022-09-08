@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seetaram Naik</h1>
 <h3 align="center">A passionate MERN Full-stack Developer</h3>
 
-<img align="right" alt="Feeling" width="400" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetaramnaik&label=Profile%20views&color=0e75b6&style=flat" alt="seetaramnaik" /> </p>
 
