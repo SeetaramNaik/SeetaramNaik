@@ -28,8 +28,8 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   <img src="https://github.com/SeetaramNaik/SeetaramNaik/blob/main/icon/node1.png" alt="nodejs" width="60" height="50"/>
-  <img src="https://github.com/SeetaramNaik/SeetaramNaik/blob/main/icon/express1.png" alt="vscode" width="50" height="50"/>
-  <img src="https://github.com/SeetaramNaik/SeetaramNaik/blob/main/icon/mongodb.svg" alt="vscode" width="90" height="50"/>
+  <img src="https://github.com/SeetaramNaik/SeetaramNaik/blob/main/icon/express1.png" alt="vscode" width="60" height="50"/>
+  <img src="https://github.com/SeetaramNaik/SeetaramNaik/blob/main/icon/mongodb.svg" alt="vscode" width="70" height="50"/>
 </p>
   
     
