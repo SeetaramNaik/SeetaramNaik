@@ -2,17 +2,17 @@
 <h3 align="center">A passionate MERN Full-stack Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seetaramnaik&label=Profile%20views&color=0e75b6&style=flat" alt="seetaramnaik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seetaramnaik&label=Profile%20views&color=0e75b6&style=flat" alt="seetaramnaik" /><p><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></p> </p>
 
 <p align="left"> <a href="https://twitter.com/seetaramnaik9" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik9?logo=twitter&style=for-the-badge" alt="seetaramnaik9" /></a> </p>
 
-- 🌐 I’m currently learning **MERN stack and ML**
+🌐 I’m currently learning **MERN stack and ML**
 
-- 👨‍💻 All of my projects are available at [seetaramnaik.github.io](https://seetaramnaik.github.io/)
+👨‍💻 All of my projects are available at [seetaramnaik.github.io](https://seetaramnaik.github.io/) 
 
-- 💬 Ask me about **MERN stack, Python**
+💬 Ask me about **MERN stack, Python**
 
-- 📫 How to reach me **seetaramnaik44@gmail.com**
+📫 How to reach me **seetaramnaik44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seetaramnaik&show_icons=true&locale=en" alt="seetaramnaik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetaramnaik&" alt="seetaramnaik" /></p>
+
+
