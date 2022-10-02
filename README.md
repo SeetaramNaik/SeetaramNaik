@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seetaram Naik</h1>
 <h3 align="center">A passionate MERN Full-stack Developer</h3>
 
+[![@seetaramnaik's Holopin board](https://holopin.io/api/user/board?user=seetaramnaik)](https://holopin.io/@seetaramnaik)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetaramnaik&label=Profile%20views&color=0e75b6&style=flat" alt="seetaramnaik" /><p><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></p> </p>
 
