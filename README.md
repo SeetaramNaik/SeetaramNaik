@@ -69,4 +69,4 @@
 
  [![Seetaram's github activity graph](https://activity-graph.herokuapp.com/graph?username=SeetaramNaik&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![@seetaramnaik's Holopin board](https://holopin.io/api/user/board?user=seetaramnaik)](https://holopin.io/@seetaramnaik)
+
