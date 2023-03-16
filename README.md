@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/seetaramnaik9" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik9?logo=twitter&style=for-the-badge" alt="seetaramnaik9" /></a> </p>
 
-🌐 I’m currently learning **MERN stack** and **ML**
+🌐 I’m currently learning **MERN stack** and **Machine Learning**
 
 👨‍💻 All of my projects are available at [seetaramnaik.github.io](https://seetaramnaik.github.io/) 
 
