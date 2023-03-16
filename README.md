@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/seetaramnaik9" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik9?logo=twitter&style=for-the-badge" alt="seetaramnaik9" /></a> </p>
 
+<p align="left"> <a href="https://www.instagram.com/seetaramnaik44/" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik44?logo=instagram&style=for-the-badge" alt="seetaramnaik44" /></a> </p>
+
 🌐 I’m currently learning **MERN stack** and **Machine Learning**
 
 👨‍💻 All of my projects are available at [seetaramnaik.github.io](https://seetaramnaik.github.io/) 
