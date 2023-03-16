@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetaramnaik&label=Profile%20views&color=0e75b6&style=flat" alt="seetaramnaik" /><p><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></p> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/seetaram-naik-2979ba193/" target="blank"><img src="https://img.shields.io/linkedin/follow/seetaramnaik?logo=linkedin&style=for-the-badge" alt="seetaramnaik" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/seetaram-naik-2979ba193/" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik?logo=linkedin&style=for-the-badge" alt="seetaramnaik" /></a> </p>
 
 <p align="left"> <a href="https://www.instagram.com/seetaramnaik44/" target="blank"><img src="https://img.shields.io/twitter/follow/seetaramnaik44?logo=instagram&style=for-the-badge" alt="seetaramnaik44" /></a> </p>
 
