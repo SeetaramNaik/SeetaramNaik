@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seetaram Naik</h1>
-<h3 align="center">A passionate MERN Full-stack Developer</h3>
+<h3 align="center">MERN Full-stack Developer</h3>
 
 
 
