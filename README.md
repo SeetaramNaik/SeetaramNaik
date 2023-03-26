@@ -19,7 +19,7 @@
 
 💬 Ask me about **MERN stack, Python**
 
-📫 How to reach me **seetaramnaik44@gmail.com**
+📫 How to reach me? **seetaramnaik45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
