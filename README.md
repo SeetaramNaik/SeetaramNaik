@@ -65,12 +65,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seetaramnaik&theme=white-black"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seetaramnaik&show_icons=true&locale=en" alt="seetaramnaik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetaramnaik&" alt="seetaramnaik" /></p>
-
- [![Seetaram's github activity graph](https://activity-graph.herokuapp.com/graph?username=SeetaramNaik&bg_color=000000&color=eedc11&line=260af5&point=79d0fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
